@@ -1,3 +1,15 @@
 _site/
+_site/*
 .sass-cache/
+.sass-cache/*
 .jekyll-metadata
+
+_site/design/2016/02/01/submarine.html
+_site/design/2016/02/02/safe.html
+_site/design/2016/02/03/game.html
+_site/design/2016/02/04/circus.html
+_site/design/2016/02/05/cake.html
+_site/design/2016/02/06/cabin.html
+_site/feed.xml
+_site/index.html
+_site/LICENSE
