@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Submarine"
+title:  "Home"
 date:   2016-02-01 15:08:10 -0500
 img: img/portfolio/submarine.png
-modalID: modalSubmarine
-category: Design
+modalID: modalHome
+category: Homepage
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, [SAFE][safe2] you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+Welcome to The Chang Lab website where we are really into soybeans and microbes.
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
 
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
-[safe2]: /img/portfolio/safe.png
+{{ page.img }}
