@@ -9,4 +9,4 @@ category: Homepage
 Welcome to The Chang Lab website where we are really into soybeans and microbes.
 
 
-[submarine]{{ page.img }}
+[submarine]:{{ page.img }}
