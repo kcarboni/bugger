@@ -6,7 +6,8 @@ img: img/portfolio/submarine.png
 modalID: modalHome
 category: Homepage
 ---
-Welcome to The Chang Lab website where we are really into soybeans and microbes.
+Welcome to The Chang Lab website where we are really into soybeans and microbes. 
+![submarine] 
 
 
 [submarine]:{{ page.img }}
