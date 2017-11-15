@@ -1,0 +1,4 @@
+#name: LocalBugger [DEBUG MODE]
+#debug: true
+baseurl: ""
+url: "http://loco:4000"
